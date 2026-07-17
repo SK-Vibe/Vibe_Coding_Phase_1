@@ -1,0 +1,19 @@
+#btn{
+    color:red;
+    background: green;
+    border:1px solid yellow;
+    padding:5px;
+}
+
+#btn:hover{
+    color:green;
+    background: red;
+    border:1px solid yellow;
+    padding:5px;
+}
+
+.heading{
+    color: pink;
+    font-size: larger;
+    font-weight: bold;
+}

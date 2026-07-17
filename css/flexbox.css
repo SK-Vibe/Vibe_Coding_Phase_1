@@ -1,0 +1,29 @@
+.Main_Div{
+    background-color: green;
+    padding:10px;
+
+    display:flex;
+    flex-direction: row;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+
+
+.Main_Div div{
+    height: 120px;
+    width: 120px;
+    background:Black;
+    color: white;
+
+
+
+
+}
+
+
+#one{
+    flex-grow: 3;
+}
